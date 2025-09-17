@@ -1,0 +1,5 @@
+
+class Manager():
+    """
+    """
+    pass
